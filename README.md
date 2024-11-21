@@ -2,7 +2,7 @@
 
 MCA Final Year Project - based on integrity verification of files and ensuring the authenticity of the files used in programs.
 
-Overview
+Overview:
 This project provides a robust solution for file integrity verification and threat analysis. It was developed using Go for backend performance and TypeScript for an interactive front end. It ensures that critical files remain secure by detecting unauthorized modifications and analyzing potential threats.
 
 Features
